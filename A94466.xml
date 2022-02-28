@@ -1,0 +1,148 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the honourable the Commons assembled in Parliament, the humble petition of divers free-borne English-men, inhabiting in the cities of London and Westminster, the burrough of Southwark, hamblets, and places adjacent.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94466</idno>
+            <idno type="STC">Wing T1427</idno>
+            <idno type="STC">Thomason E612_1</idno>
+            <idno type="STC">Thomason E612_1*</idno>
+            <idno type="STC">ESTC R206471</idno>
+            <idno type="EEBO-CITATION">99865628</idno>
+            <idno type="PROQUEST">99865628</idno>
+            <idno type="VID">165722</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94466)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165722)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 94:E612[1], 94:E612[1*])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the honourable the Commons assembled in Parliament, the humble petition of divers free-borne English-men, inhabiting in the cities of London and Westminster, the burrough of Southwark, hamblets, and places adjacent.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1650]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotations on Thomason copy (E.612[1]): "1st Sep London 1650"; "this ye Levellers petion".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb n="1" facs="tcp:165722:1" rendition="simple:additions"/>
+            <head>TO THE Honourable the Commons Aſſembled in PARLIAMENT, <hi>The Humble</hi> Petition <hi>of divers Free-borne</hi> Engliſh-men, <hi>inhabiting in the Ci<g ref="char:EOLhyphen"/>ties of</hi> London <hi>and</hi> Weſtminſter, <hi>the Burrough of</hi> Southwark, <hi>Hamblets, and places adjacent.</hi>
+            </head>
+            <opener>SHEWETH,</opener>
+            <p>AMidſt our continuall griefs and anguiſh of Spirit, wherewith we have been long time afflicted, through our ſence of preſſing bur<g ref="char:EOLhyphen"/>thenous neceſſities, which lye upon us, and iminent dangers which perpetually threaten us, occaſioned by the omiſſion of ſettling the Government of this Nation, upon thoſe foundations of equity and freedom, which were made the onely juſtifiable grounds and ends of the late violent bloody conſuming and chargable War, and of all the extraordi<g ref="char:EOLhyphen"/>nary actings and proceedings of the preſent Parliament and Army, out griefs have been often mittigated, with remembrance of the many, full, ample and zealous promiſes and Proteſtations, made by both unto the peo<g ref="char:EOLhyphen"/>ple of reſtoring them, to all their Rights and Liberties, and of delivering them from all kinds of oppreſſion, uſurpation, and Arbitrary Proceedings; for how was it poſſible for us, but to hope reall performances thereof, when they avouch, that the compleat ſettlement of the Liberties and peace of the Nation is that bleſſing of God, then which of all worldly things, no<g ref="char:EOLhyphen"/>thing is more dear or precious in their thoughts.</p>
+            <p>That they eſteemed all preſent enjoyments (whether of life or livelihood, or neareſt relation) a price but ſufficient to the purchaſe of ſo rich a bleſſing, that they, and all the <hi>free-borne People of England,</hi> might ſit down in quiet under their own Vines under the glorious adminiſtration of Juſtice and Righteouſneſſe, and in full poſſeſſion of thoſe Fundamental Rights and Li<g ref="char:EOLhyphen"/>berties, without which (they ſay) they could have little hopes to enjoy ei<g ref="char:EOLhyphen"/>ther any comforts of life, or ſo much as life it ſelf, but at the pleaſures of ſome men ruling meerly according to Will and Power.</p>
+            <p>Avouching alſo, that they were not a meer mercinary Army, hired to ſerve any Arbitrary power of a State, but called forth and conjured, by the ſeverall <hi>Declarations</hi> of <hi>Parliament,</hi> to the defence of their own, and the
+<pb n="2" facs="tcp:165722:2"/>Peoples juſt Rights and Liberties, and ſo they took up Armes in Judgement and Conſcience to thoſe ends, and have ſo continued them, and are reſol<g ref="char:EOLhyphen"/>ved according to your firſt juſt deſires in your <hi>Declarations,</hi> and ſuch prin<g ref="char:EOLhyphen"/>ciples received from your frequent informations, and common ſence con<g ref="char:EOLhyphen"/>cerning thoſe fundamentall Rights and Liberties, to aſert and vindicate the juſt Power and Rights of this Nation in <hi>Parliaments,</hi> for thoſe common ends promiſed, againſt all Arbitrary Power, violence and oppreſſion, and a<g ref="char:EOLhyphen"/>gainſt all particular parties or intereſt whatſoever.</p>
+            <p>And that none might miſtake them herein, they manifeſt a moſt deep ſence of the neceſſity, that the Members of the houſe themſelves (by frequent elections) might be capable of ſubjection as well as rule; and thereby be in a capacity to conſider other mens Caſes, as what might come to be their own: alſo how unfit and dangerous it was, that the ſupream Power of the <hi>Common-Wealth</hi> ſhould be fixt in the perſons of the ſame men, during their own pleaſures; That neither by their originall conſtitution of this State, was it, or ought it to continue ſo, nor does it wherever it is and continues ſo, render that ſtate (ſay they) any better then a tyranny, or the People ſubjected to it any better then Vaſſals: But in all States (ſay they) where there is any face of common freedom, and particularly in this State of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> (as is moſt evident, both by many poſitive Lawes, and ancient conſtant Cuſtomes) <hi>The People have a right to new and ſucceſſive Elections,</hi> into that great and ſupream Truſt, at certain periods of time (which ſay they) is ſo eſſentiall and fundamentall to their freedom, as it is, cannot, or ought not to be denyed to them, or withheld from them, and without which the houſe of <hi>Commons</hi> is of very little concernment to the <hi>Commons</hi> of <hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+            </p>
+            <p>Theſe and the like full and clear expreſſions concerning our Liberties for a long ſeaſon, ſupported our often fainting hopes, as being willing to be<g ref="char:EOLhyphen"/>lieve it was not poſſible for them to be uttered in vaine, at leaſt that they would never terminate in things contrary.</p>
+            <p>And after long and tedious expectation, we were much revived, when as no ſooner had the Authours of thoſe large Promiſes and Proteſtations, by extraordinary proceedings againſt the other Members inveſted you with Power, (which they then alſo ſaid, they did onely in order to new ſucceſſive Parliaments to be ſpeedily choſen) but imediately you likewiſe declare in behalf thereof, and for the <hi>Petition of Right,</hi> ſtiling it that moſt excellent Law: and that you would maintain inviolable the ancient juſt Rights and Liber<g ref="char:EOLhyphen"/>ties of the People, in all things touching Life, Liberty, Eſtate and Property, with all things incident thereunto.</p>
+            <p>But ſo it is, that now after more irkſome expectations, our hopes dye day<g ref="char:EOLhyphen"/>ly within us, and our griefes increaſe ſo faſt, as like to overwhelm us; for
+<pb n="3" facs="tcp:165722:2"/>what place for hope have we left? or how is it poſſible for us not to grieve without ceaſing, whilſt notwithſtanding all thoſe pretious <hi>Promiſes, Declara<g ref="char:EOLhyphen"/>tions &amp; Engagements,</hi> for, &amp; in behalf of the ancient juſt Rights and Liberties (and upon which promiſes, and for which Liberties we with others have ad<g ref="char:EOLhyphen"/>ventured all we could in this life) new and ſuccesfull Elections to that ſu<g ref="char:EOLhyphen"/>pream truſt of <hi>Parliament,</hi> is not onely withheld from the People, and ſo as that men dare hardly affirm it to be their Rights; but whilſt it is retained and fixed in the perſons of the ſame men, during their own pleaſures, Lawes are made of ſo dangerous a nature, as men can ſcarce ſpeak or do any thing for fear of loſle of Life, or Liberty or Eſtate.</p>
+            <p>How can we chooſe but bewaile our own and the Nations ſad condition, when notwithſtanding all thoſe zealous ardent expreſſions for juſt Liberty, acknowledged to be due to the People: That yet it ſhould be frequent to impriſon <hi>Engliſh-men</hi> upon extrajudicial Prerogative-like Warrants, and that too in ſuch places, and remote Caſtles, whereunto belongeth no legall Goale-delivery, but where they are detained during pleaſure, examined a<g ref="char:EOLhyphen"/>gainſt themſelves ſearch to find matter againſt them, and ſome are uſed in a more barbarous manner, then thoſe were called <hi>Puritans</hi> in the <hi>Biſhops</hi> time.</p>
+            <p>Wh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lſt <hi>English-men</hi> are made lyable to attachments, by <hi>Meſſengers</hi> and <hi>Purſevants.</hi> To have their goods deſtrained without legal Proceedings, and by Perſons not authorized by Law, to be tryed in matters of property and eſtate, by Committees; and in caſes of life, by an extraordinary Commiſſi<g ref="char:EOLhyphen"/>on of <hi>Oyer</hi> and <hi>Terminer,</hi> or which is worſe and farre tranſcending all ſtrain of the old <hi>Prerogative</hi> by a <hi>High Court</hi> of <hi>Iuſtice,</hi> and <hi>Tryalls</hi> by <hi>Iury,</hi> of twelve ſworn men, ſhall be withheld from any <hi>Engliſh-man;</hi> how in the leaſt is <hi>Magna Charta,</hi> or the <hi>Petition of Right,</hi> thoſe ancient fundamentall Rights, either in circumſtance or ſubſtance made good.</p>
+            <p>Whilſt Conſcience is inforced to an <hi>Engagement,</hi> or to the refuſer to for<g ref="char:EOLhyphen"/>goe all the comforts of life, and as an Out-Law, expoſed to the wills of men, and that <hi>Exciſe, Cuſtome,</hi> and <hi>Taxes,</hi> are exacted as they are upon all ſorts of induſtrious People: Alaſſe, what Liberty is left us? who is he that walks not in <hi>Ieopardy</hi> all his life long, if theſe things be continued (which God defend) enjoying neither any comforts of life, nor ſo much as life it ſelf, but at the pleaſures of Men.) And therefore in Conſcience to God (whoſe holy and dreadful name hath been often invocated to be a Witneſs of tbe reality of thoſe Promiſes and Declarations we are conſtrained at this time in moſt humble manner, earneſtly to beſeech you, even by the mercies and for<g ref="char:EOLhyphen"/>bearance of God) who yet vouchſafeth time and means to perform all your Vowes.</p>
+            <pb n="4" facs="tcp:165722:3"/>
+            <p n="1">1. <hi>That you will be pleaſed to render unto the People their eſſentiall Freedom in new ſucceſſive Elections unto the ſupream trust of Parliaments, and that you will review and repeale all ſuch Lawes, as make men Capital offenders for words, or actions not Capitall in nature.</hi>
+            </p>
+            <p n="2">2. <hi>That all perſons impriſoned in any place, not ſubject to a Legall Goale-De<g ref="char:EOLhyphen"/>livery, may be at leaſt removed, Legally to Legall Priſons; to be preceeded with<g ref="char:EOLhyphen"/>all in due courſe according to Law, that they may be freed from thoſe dangers of Life and diſtraction of mind, occaſioned by tedious impriſonment, or ſad exam<g ref="char:EOLhyphen"/>ples by Tryalls, by extraordinary Commiſſions of</hi> Oyer <hi>and</hi> Terminer, <hi>or which is far worſe, by a</hi> High Court of Juſtice <hi>(which we pray God may be never more heard of in</hi> England, <hi>as not knowing, any thing of greater danger, or more expreſly repugnant to our Lawes and Liberties) upon pretences of crimes againſt the State, or of any other Prerogative-like ſuggeſtions.</hi>
+            </p>
+            <p n="3">3. <hi>That henceforth no man, may be attached, ſentenced, fined or impriſoned, or otherwiſe adjudged of Life, Limb, Liberty or Eſtate, by any other Authority, but by lawfull unanimous Iudgement of twelve ſworn men of the Neighbourhood, by Legall Officers and due proceſs of Law, according to the true intent of thoſe ancient Fundamentall Liberties contained in</hi> Magna Charta, <hi>and the</hi> Petition of Right.</p>
+            <p n="4">4. <hi>That you will ſuſpend all further enforcement of the</hi> Engagement <hi>upon a<g ref="char:EOLhyphen"/>ny, as which exceedingly enſnareth the Conſciences of the People; and that you will diſ-burthen all induſtrious People from thoſe perplexities that lie upon them by Exciſe and Cuſtoms: and raiſe all publick monies by way of Subſidies, ac<g ref="char:EOLhyphen"/>cording to the ancient conſtant cuſtome of Parliaments.</hi>
+            </p>
+            <p>
+               <hi>Theſe things would you be pleaſed ſpeedily to effect, all the Free-borne People of the Land would then magnifie the good<g ref="char:EOLhyphen"/>neſſe of God for thoſe rich bleſſings; becauſe, then they might ſecurely ſit down in quiet under their own Vines, under the glorious adminiſtration of Juſtice and Righteouſneſs, and in the full poſſeſſion of thoſe Fundamentall Rights and Liber<g ref="char:EOLhyphen"/>ties, without which they have no comfort of Life; and for want whereof, and untill they are firmly eſtabliſhed, the whole Land is likely to become a prey to Forraign Confederates, pre<g ref="char:EOLhyphen"/>ſuming to find nothing here, but diviſions, diſtractions, and diſatisfactions; and therefore we can never ceaſe to Peti<g ref="char:EOLhyphen"/>tion for them, and for which as bound in Conſcience,</hi>
+            </p>
+            <closer>We ſhall ever pray.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
